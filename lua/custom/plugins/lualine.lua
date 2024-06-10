@@ -1,6 +1,6 @@
 return {
   'nvim-lualine/lualine.nvim',
-  lazy = true,
+  lazy = false,
   cmd = { 'TimerStart', 'TimerRepeat' },
   dependencies = {
     'nvim-tree/nvim-web-devicons',
